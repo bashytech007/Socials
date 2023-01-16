@@ -647,7 +647,8 @@ main .container .right {
 /* MEDIA QUERIES FOR SMALL TABLETS AND MOBiLE PHONES */
 @media screen and(max-width:992px) {
   .container {
-    width: 87%;
+    width: 85%;
+    font-size: 1.2rem;
   }
   main .container {
     grid-template-columns: 5rem auto 30vw;
